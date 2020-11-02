@@ -1,0 +1,30 @@
+So how did the classical Latin become so incoherent?
+According to McClintock,
+a 15th century typesetter likely scrambled part of
+Cicero's De Finibus in order to provide
+placeholder text to mockup various fonts for a type
+specimen book.Its difficult to find examples o
+f lorem ipsum in use before Letraset made it popular
+ as a dummy text in the 1960s,
+although McClintock says he remembers coming across
+ the lorem ipsum passage in a book of
+old metal type samples. So far he hasn't relocated
+where he once saw the passage,
+but the popularity of Cicero in the 15th century
+supports the theory that the filler text has
+been used for centuries."
+In this article, we will see how to create a
+countdown timer using Python.
+The code will take input from the user regarding the
+ length of the countdown in seconds.
+After that, a countdown will begin on the screen of
+the format ‘minutes: seconds’.
+We will use the time module here.
+If you like GeeksforGeeks and would like to contribute,
+ you can also write an article using contribute.geeksforgeeks.org
+  or mail your article to contribute@geeksforgeeks.org.
+ See your article appearing on the GeeksforGeeks main
+  page and help other Geeks.
+
+Please Improve this article if you find anything incorrect by
+clicking on the "Improve Article" button below.
